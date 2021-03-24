@@ -1,11 +1,10 @@
-# React-Native---ToDoList-App
+# React-Native: ToDoList App
 
-
-React Native - ToDoList App
-
-Basics of props, components and managing State, dealing with user input, TextInput, KeyboardAvoidingView, ScrollView and more...
+1. Basics of props,components and managing State
+1. Dealing with user input
+1. TextInput, KeyboardAvoidingView, ScrollView and more...
 
 UI Design
 
 
-
+![ui](assets/ui.png)
